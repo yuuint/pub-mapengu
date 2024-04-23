@@ -1,0 +1,57 @@
+{
+  "name": "maPengu",
+  "short_name": "マッペング",
+  "description": "laboのおすすめペンギン🐧スポットを紹介！。可愛いペンギンとマッチング／マッピングしてます！。スポット選定に活用してみてください。",
+  "icons": [
+    {
+      "src": "/_nuxt/icons/icon_64x64.7470c6.png",
+      "sizes": "64x64",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_120x120.7470c6.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_144x144.7470c6.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_152x152.7470c6.png",
+      "sizes": "152x152",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_192x192.7470c6.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_384x384.7470c6.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/_nuxt/icons/icon_512x512.7470c6.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#272727",
+  "theme_color": "#272727",
+  "lang": "ja",
+  "author": "Y.Network",
+  "og:description": "laboのおすすめペンギン🐧スポットを紹介！。可愛いペンギンとマッチング／マッピングしてます！。スポット選定に活用してみてください",
+  "og:title": "maPengu"
+}
